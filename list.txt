@@ -44,3 +44,4 @@ KasproR
 jantry
 KonradPR
 Eeelman
+KindManager
